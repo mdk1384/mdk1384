@@ -1,10 +1,11 @@
 ### Hi there 👋
-### I'm MDK and I'm in **Dostan Khass©** Team
+### I'm MDK
+### I'm in **Dostan Khass©** Team
 ### ⚙💻 I'm currently working on [NomreAzma](https://github.com/Online-test-system-Nomre/Nomreazma)
+### 👯 I’m looking to collaborate on Nomre Azma
 ### [NomreAzma](https://github.com/Online-test-system-Nomre/Nomreazma) is a open source project for taking a quez. Try it!
-### 
 ### [NomreAzma.ir](https://nomreazma.ir)
-###### My Blog in Persian: **https://virgool.io/@mdk**
+##### My Blog in Persian: **https://virgool.io/@mdk**
 
 <!--
 **mdk1384/mdk1384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
