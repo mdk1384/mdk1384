@@ -1,5 +1,5 @@
 #### Hi there 👋
-My Blog in [Virgool](https://virgool.io) is [link🔗](https://virgool.io/@MDK)
+[My personal blog](https://mdk1384.github.io) and Blog in [Virgool](https://virgool.io) is [link🔗](https://virgool.io/@MDK)
 - ⚙💻 I'm currently working on [NomreAzma](https://github.com/Online-test-system-Nomre/Nomreazma)
 - 👯 I’m looking to collaborate on Nomreazma
 - 🤔 I’m looking for help with any project!
