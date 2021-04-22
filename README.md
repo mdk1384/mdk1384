@@ -7,7 +7,6 @@
 ##### ⭐ And other things that are not here!
 ##### [NomreAzma](https://github.com/Online-test-system-Nomre/Nomreazma) is a open source project for taking a quez. [Try it!](https://nomreazma.ir)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nomreazma&repo=Nomreazma)](https://github.com/nomreazma/Nomreazma)
-##### [NomreAzma.ir](https://nomreazma.ir)
 ###### My Blog in Persian: **https://virgool.io/@mdk**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdk1384&show_icons=true&theme=white)<br>
