@@ -5,13 +5,14 @@
 ##### 🤔 I’m looking for help with any project!
 ##### ⚡ Fun fact: Programming and reading books
 ##### ⭐ And other things that are not here!
-##### [NomreAzma](https://github.com/Online-test-system-Nomre/Nomreazma) is a open source project for taking a quez. Try it!
+##### [NomreAzma](https://github.com/Online-test-system-Nomre/Nomreazma) is a open source project for taking a quez. [Try it!](https://nomreazma.ir)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nomreazma&repo=Nomreazma)](https://github.com/nomreazma/Nomreazma)
 ##### [NomreAzma.ir](https://nomreazma.ir)
 ###### My Blog in Persian: **https://virgool.io/@mdk**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdk1384&show_icons=true&theme=white)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdk1384&langs_count=8)](https://github.com/mdk1384)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nomreazma&repo=Nomreazma)](https://github.com/nomreazma/Nomreazma)
+
 <!--
 **mdk1384/mdk1384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
