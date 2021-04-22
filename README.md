@@ -1,5 +1,6 @@
 #### Hi there 👋
 
+###### My Blog in Persian: **https://virgool.io/@mdk**
 ##### ⚙💻 I'm currently working on [NomreAzma](https://github.com/Online-test-system-Nomre/Nomreazma)
 ##### 👯 I’m looking to collaborate on Nomre Azma
 ##### 🤔 I’m looking for help with any project!
@@ -7,9 +8,9 @@
 ##### ⭐ And other things that are not here!
 ##### [NomreAzma](https://github.com/Online-test-system-Nomre/Nomreazma) is a open source project for taking a quez. [Try it!](https://nomreazma.ir)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nomreazma&repo=Nomreazma)](https://github.com/nomreazma/Nomreazma)
-###### My Blog in Persian: **https://virgool.io/@mdk**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdk1384&show_icons=true&theme=white)<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdk1384&show_icons=true&theme=white)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdk1384&langs_count=8)](https://github.com/mdk1384)
 
 <!--
