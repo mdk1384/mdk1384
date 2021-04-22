@@ -6,7 +6,6 @@
 ##### 🤔 I’m looking for help with any project!
 ##### ⚡ Fun fact: Programming and reading books
 ##### ⭐ And other things that are not here!
-##### [NomreAzma](https://github.com/Online-test-system-Nomre/Nomreazma) is a open source project for taking a quez. [Try it!](https://nomreazma.ir)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nomreazma&repo=Nomreazma)](https://github.com/nomreazma/Nomreazma)
 
 
