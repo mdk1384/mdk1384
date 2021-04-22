@@ -1,13 +1,12 @@
 #### Hi there 👋
+- 
 
 ##### My Blog in [Virgool](https://virgool.io): [link🔗](https://virgool.io/@MDK)
-##### ⚙💻 I'm currently working on [NomreAzma](https://github.com/Online-test-system-Nomre/Nomreazma)
-##### 👯 I’m looking to collaborate on Nomre Azma
-##### 🤔 I’m looking for help with any project!
-##### ⚡ Fun fact: Programming and reading books
-##### ⭐ And other things that are not here!
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nomreazma&repo=Nomreazma)](https://github.com/nomreazma/Nomreazma)
-
+- ##### ⚙💻 I'm currently working on [NomreAzma](https://github.com/Online-test-system-Nomre/Nomreazma)
+- ##### 👯 I’m looking to collaborate on Nomreazma
+- ##### 🤔 I’m looking for help with any project!
+- ##### ⚡ Fun fact: Programming and reading books
+- ##### ⭐ And other things that are not here!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdk1384&show_icons=true&theme=white)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdk1384&langs_count=8)](https://github.com/mdk1384)
