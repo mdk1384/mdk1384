@@ -4,13 +4,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdk1384&langs_count=8)](https://github.com/mdk1384)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nomreazma&repo=Nomreazma)](https://github.com/nomreazma/Nomreazma)
 
-### I'm MDK
-### I'm in **Dostan Khass©** Team
-### ⚙💻 I'm currently working on [NomreAzma](https://github.com/Online-test-system-Nomre/Nomreazma)
-### 👯 I’m looking to collaborate on Nomre Azma
-### [NomreAzma](https://github.com/Online-test-system-Nomre/Nomreazma) is a open source project for taking a quez. Try it!
-### [NomreAzma.ir](https://nomreazma.ir)
-##### My Blog in Persian: **https://virgool.io/@mdk**
+
+#### ⚙💻 I'm currently working on [NomreAzma](https://github.com/Online-test-system-Nomre/Nomreazma)
+#### 👯 I’m looking to collaborate on Nomre Azma
+#### [NomreAzma](https://github.com/Online-test-system-Nomre/Nomreazma) is a open source project for taking a quez. Try it!
+####[NomreAzma.ir](https://nomreazma.ir)
+###### My Blog in Persian: **https://virgool.io/@mdk**
 
 
 <!--
