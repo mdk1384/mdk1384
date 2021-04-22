@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdk1384&show_icons=true&theme=radical)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdk1384&langs_count=8)](https://github.com/mdk1384)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdk1384&repo=Nomreazma)](https://github.com/nomreazma/Nomreazma)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nomreazma&repo=Nomreazma)](https://github.com/nomreazma/Nomreazma)
 
 ### I'm MDK
 ### I'm in **Dostan Khass©** Team
