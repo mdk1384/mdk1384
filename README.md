@@ -1,8 +1,9 @@
 #### Hi there 👋
 [My personal blog](https://mdk1384.github.io) and Blog in [Virgool](https://virgool.io) is [link🔗](https://virgool.io/@MDK)
-- ⚙💻 I'm currently working on [NomreAzma](https://github.com/Online-test-system-Nomre/Nomreazma)
-- 👯 I’m looking to collaborate on Nomreazma
+- ⚙ I'm not working on anything right now!
+- 👯 I’m currently learning python
 - 🤔 I’m looking for help with any project!
+- 📨 How to reach me: Email
 - ⚡ Fun fact: Programming and reading books
 - ⭐ And other things that are not here!
 
