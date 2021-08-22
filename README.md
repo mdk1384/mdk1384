@@ -3,7 +3,6 @@
 - ⚙ I'm not working on anything right now!
 - 👯 I’m currently learning Python
 - 🤔 I’m looking for help with any project!
-- 📨 How to reach me: Email to [dzhbanmhmdamyn@gmail.com](mailto:dzhbanmhmdamyn@gmail.com)
 - ⭐ And other things that are not here!
 ## 🧰 Languages and Tools:
 
