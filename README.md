@@ -3,8 +3,9 @@
 [My personal blog in Github](https://mdk1384.github.io) and my blog in [Virgool](https://virgool.io) is [link 🔗](https://virgool.io/@MDK)
 
 - ⚙ I'm not working on anything right now!
-- 👯 I’m currently learning Python
+- 💻 I’m currently learning Python
 - 🤔 I’m looking for help with any project!
+- ⭐ And other things that are not here!
 
 ## 🧰 Languages and Tools:
 
