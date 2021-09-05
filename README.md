@@ -1,8 +1,11 @@
-#### Hi there 👋
+# Hi there 👋
+
 [My personal blog in Github](https://mdk1384.github.io) and my blog in [Virgool](https://virgool.io) is [link 🔗](https://virgool.io/@MDK)
+
 - ⚙ I'm not working on anything right now!
 - 👯 I’m currently learning Python
 - 🤔 I’m looking for help with any project!
+
 ## 🧰 Languages and Tools:
 
 <p align="center">
@@ -19,6 +22,7 @@
 </p>
 
 [![mdk1384's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdk1384&show_icons=true&theme=white)](https://github.com/mdk1384)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdk1384&langs_count=8&layout=compact)](https://github.com/mdk1384)
 
 <!--START_SECTION:waka-->
