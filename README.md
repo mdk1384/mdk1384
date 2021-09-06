@@ -28,6 +28,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   33 mins         █████████████░░░░░░░░░░░░   52.50 % 
+HTML       29 mins         ███████████▒░░░░░░░░░░░░░   45.25 % 
 ```
 <!--END_SECTION:waka-->
