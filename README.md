@@ -23,7 +23,6 @@
 </p>
 
 [![mdk1384's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdk1384&show_icons=true&theme=white)](https://github.com/mdk1384)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdk1384&langs_count=8&layout=compact)](https://github.com/mdk1384)
 
 <!--START_SECTION:waka-->
